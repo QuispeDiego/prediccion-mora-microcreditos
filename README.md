@@ -4,10 +4,10 @@ Proyecto Integrador de Data Science – **Data Mining Tools (CC209)**, Universid
 Entrega actual: **Trabajo Parcial (TP1)**.
  
 **Integrantes:**
-- Integrante 1
-- Integrante 2
-- Integrante 3
-- Integrante 4
+- Paul Reynier
+- Juan Manuel Diaz Lopez
+- Marco Antonio Luciano Cabrera Díaz
+- Diego Eloy Quispe Palacin
 ---
  
 ## Problema
